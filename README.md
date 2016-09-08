@@ -9,5 +9,12 @@ It will include some documents, and I'll be using it mostly for testing and to u
 
 
 Doubt : Can I create a table?
+Table
 
-
+Object|Object data|Object functions
+------|------|--------
+Engagement| 12345| name 2
+Request| name 4|name 5
+Process Thread| name 4|name 5
+Process steps| name 4|name 5
+L4| name 4|name 5
